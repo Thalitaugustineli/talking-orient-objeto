@@ -1,3 +1,20 @@
+//Orientação à Objetos - JS
+
+//Encapsulamento
+// Encapsulamento é o conceito de esconder os detalhes internos de uma classe, expondo apenas o que é necessário para o usuário da classe.
+
+
+// Abstração
+// Abstração é o conceito de simplificar a complexidade de um sistema, mostrando apenas os aspectos essenciais e ocultando os detalhes desnecessários.
+
+// Herança
+// Herança é o conceito de criar uma nova classe baseada em uma classe existente, herdando
+
+// Polimorfismo
+// Polimorfismo é o conceito de permitir que diferentes classes implementem métodos com o mesmo
+
+// A função require irá importar o módulo 'faker' que é usado para gerar dados aleatórios
+
 const faker = require('faker')
 
 /**
